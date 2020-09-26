@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM Sample</string>
+    <string name="username_edit_text_hint">Enter Username</string>
+    <string name="password_edit_text_hint">Enter Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="account_register_text">Don\'t have an account? Register Here</string>
+    <string name="confirm_password_text">Confirm Password</string>
+</resources>
